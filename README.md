@@ -1,6 +1,12 @@
 # Supermarket Sweep
 ![Image](https://gregdchan.com/wp-content/uploads/2020/11/supermarketrun_01-1.png)
 Project screenshot
+## About
+This single level project was developed along with a team of students at CUNY's VR Training Academy in Spring 2020 at the onset of the panic. I've lost contact with everyone who contributed to this project, but please reach out to me so I can update this.
+## Team
+Greg Chan
+Masharzi McCann
+
 ## Synopsis
 The Coronavirus has arrived in New York City! In order to prepare for the impending lockdown, you must diligently navigate through your neighborhood grocery store and grab all the essentials. But be careful, the virus is lurking in every isle, slowly drifting in the air and waiting to infect an unsuspecting customer, so proceed with caution!
 ## Gameplay
